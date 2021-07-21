@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_note">Добавить</string>
+    <string name="start_label">Что использовать?</string>
+    <string name="start_btn_room">Room</string>
+    <string name="exit">Exit</string>
+    <string name="title">Заметки</string>
+    <string name="toast_enter_name">Введите имя заметки</string>
+    <string name="start_btn_firebase">Firebase</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="start_btn_login">Login</string>
+    <string name="toast_fill_inputs">Введите пароль и почту</string>
+</resources>
